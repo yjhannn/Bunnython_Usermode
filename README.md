@@ -13,4 +13,4 @@
   - 사용자가 고른 여행지와 사용자의 현재 위치를 기반으로 최적 경로를 추천해주는 기능이다.
   - 자신의 후기를 남겨 다른 사용자들이 참고할 수 있습니다.
   
-  Figma Link : https://www.figma.com/file/aC2ps2eIT8P5AzxPrqVqTY/Untitled?node-id=0%3A1&t=Cpiwd7Syk7Uzd6dz-1
+  Figma Link : https://www.figma.com/proto/aC2ps2eIT8P5AzxPrqVqTY/Untitled?page-id=0%3A1&node-id=6%3A210&viewport=1324%2C526%2C0.27&scaling=scale-down&starting-point-node-id=6%3A210&show-proto-sidebar=1&hide-ui=1
